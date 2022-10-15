@@ -23,6 +23,6 @@
 11- predict the verification of the user
 
 ## the technical process:
-starting with a visualization of our data via wordcloud, heatmap from Seaborn ect..
+starting with a visualization of our data via wordcloud and heatmap from Seaborn ect..
 in order to be able to preprocess the data with the regex and nlp functions of the spacy library,
 and then the construction of the model in two ways, with decisionTree from sklearn and Sequential from keras.
